@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/control/admin/Addfa.java=UTF-8
+encoding//src/control/admin/Addstu.java=UTF-8
+encoding//src/control/admin/Addtutor.java=UTF-8
+encoding//src/control/fam/NoticeUploadServlet.java=UTF-8
+encoding//src/control/fam/ReleaseNotice.java=UTF-8
+encoding//src/control/gra/FileUploadServlet.java=UTF-8
+encoding//src/control/tutor/DownLoadServlet.java=UTF-8
+encoding//src/control/tutor/FindStuArticle.java=UTF-8
+encoding//src/control/tutor/StartPaperDownloadSevlet.java=UTF-8
+encoding/<project>=GBK
